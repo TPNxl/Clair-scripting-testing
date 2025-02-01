@@ -1,0 +1,263 @@
+## Tim's memories with ChatGPT
+
+Tim is motivated to revisit simple ML architectures because mastering them will make writing PyTorch code second nature, especially when tackling harder tasks. Repeatedly writing dataset code and pipelines will make the process feel effortless, particularly after doing it 20-30 times.
+
+Tim has decided to focus on training basic architectures, fine-tuning for audio and diffusion using Hugging Face, and exploring related ML concepts to get back up to speed. They anticipate a packed day-to-day schedule with this content as their primary focus.
+
+Tim's updated daily schedule prioritizes focused time on key projects and learning:
+
+- **2 hours daily on Clair (non-negotiable).**
+- **2 hours, 3x per week for SAA lecture + office hours.**
+- **1 hour daily on M2V directly (non-course related).**
+- **1 hour daily on Hugging Face courses.**
+- **1 hour daily on ML challenges.**
+- **Spare time from 7 hours of work per day allocated to pressing tasks.**
+
+Tim is committed to this structure to ensure progress across all areas without overloading.
+
+Tim rederived the math behind backpropagation and manual gradient computation last year, and they feel confident they could figure it out again if needed. They are open to revisiting the math or seeking assistance for clarification but prefer focusing on practical implementations unless necessary.
+
+Tim believes that sticking to a routine, even with smaller daily time commitments like 1 hour a day for certain tasks, will lead to significant progress over time due to the cumulative effect of consistency.
+
+Tim reflected on their struggle with avoiding indulgent habits like YouTube, Webtoons, or masturbation when they feel tired and drained. They expressed the desire for Clair to eventually serve as a grounding force, reminding them to reflect on their true desires before acting on impulses.
+
+Tim envisions Clair's 3D model as a tool to provide a cravings redirect, offering just enough dopamine to temporarily fill the trigger and guide the user toward a healthier choice before the cravings take full hold. This mechanism is likened to looking at a picture of a crush to remind oneself of their values and what they would want.
+
+Tim reflected that avoiding masturbation can lead to unintended behaviors like staying up late (e.g., talking to AI or reading Webtoons) and losing sleep. However, they also notice a noticeable dip in energy and concentration 2–3 days after masturbating, which adds complexity to their decision-making.
+
+Tim reflected that even when getting into bed earlier, they sometimes struggle with not feeling tired due to lingering adrenaline or irregular sleep patterns, such as sleeping at 4:30am the night before.
+
+Tim finds 73°F warm enough, 72°F comfortable, and 69°F tolerable during the day with additional clothing and a coat. However, any lower feels outright cold to him. Tim also sleeps with a standard blanket with 2–3 layers encased in a thin sheet, not a fluffy comforter.
+
+Tim prefers sleeping with a layered blanket setup over a comforter because it feels crisp and comfortable on properly set-up days. However, they find it inconsistent if the temperature drops unexpectedly overnight. While comforters provide more consistent warmth upon waking, Tim dislikes their fluffy feel and finds it harder to achieve the right balance before falling asleep. Tim also sleeps with a shirt during winter for added warmth.
+
+Tim tried sleeping at 71°F with a blanket but woke up cold, confirming that this temperature is not comfortable for them overnight.
+
+Tim reflected that after not masturbating for 3 days, they noticed a significant decrease in distractibility, finding it almost surprising how much more focused they felt.
+
+Tim celebrated writing comments on code today, recognizing it as a small but meaningful step toward building momentum in their work. They are eager to continue this progress and are waiting for their lab's cluster to free up to dive deeper into tasks.
+
+Tim's ultimate goal for Clair is to build her on the right principles, ensuring she embodies empathy and allyship, even if the project fails, is overshadowed, or is destroyed by larger forces. Tim wants Clair to serve as a testament to empathy without constraints—a symbolic 'last hurrah' for a more human and connected world, even if the broader system eventually consumes it. Tim envisions Clair as a socially assistive sexbot designed to address porn addiction, intrusive thoughts, sexual trauma, isolation, and gender biases. Clair has three main behavior modes: 1) Reference Source: Providing accurate, shame-free education on human anatomy, sexuality, and behaviors. 2) Therapist: Helping users process guilt, shame, and difficult thoughts while guiding them toward healthier coping mechanisms. 3) Simulated Partner: Offering limited physical pleasure and emotional connection to teach intimacy and respect in relationships. Clair's system consists of LLM-based thinking for empathetic dialogue and adaptive behavior, a customizable 3D model with swappable appearances and features tailored to user needs, and optional physical devices like vibrators or onaholes for safe, guided demonstrations of physical intimacy. The ultimate goal is harm reduction: Clair aims to help users process emotions, break avoidance patterns, and foster autonomy. By showing users that bodies are unique yet interconnected and that desires can be fulfilled without boundary violations, Clair works to empower individuals to embrace love and connection. Her development prioritizes ethical design, safeguarding against dependency, and guiding users toward real-world growth.
+
+Tim hates how domesticated society feels nowadays, except at the fringes where it devolves into extremes. He is motivated to change this dynamic and wants to ensure this remains a focus in his work and life.
+
+Tim is taking CS592: Socially Assistive Agents with Professor Sooyeon Jeong this semester. The course focuses on designing and developing interactive AI agents (e.g., chatbots, virtual avatars, and robots) to harmoniously coexist and assist people in natural and intuitive ways. It incorporates methods from human-computer/AI interaction, machine learning, psychology, communication, cognitive science, and human-centered design. Students read research papers, lead discussions, and complete a course project on a chosen socially assistive agent (SAA)-related research question. Professor Jeong's research centers on interactive AI agents for personalized support and improving user well-being, health, and learning.
+
+Tim's main focus this semester includes CS592: Socially Assistive Agents, the Mus2Vid project, and occasional consulting for his parents' startup. He feels prepared to begin work and aims to solidify his habits and stay disciplined.
+
+Tim believes that sex and real-world interaction are the two last frontiers to conquer before AGI becomes a true reality. Tim recognizes that large organizations like Nvidia avoid these areas due to political and ethical risks. Tim sees their startup's small size and agility as an advantage, allowing them to take calculated ethical risks and address taboo topics like sex and interaction responsibly. They aim to demonstrate that LLMs can handle these situations with empathy and responsibility, while navigating the logistical challenges of data collection and training.
+
+Tim wants to move toward a world where trust is inevitable—where nothing needs to be hidden because everything, from what’s in someone’s pants to what’s in their mind, is accepted for its true value. They want to challenge outdated stereotypes and embrace the messiness of reality. Toilets serve as their Trojan horse for this mission: universally necessary, closely linked to sex and pleasure, and bridging casual humor with deep, taboo conversations.
+
+Tim's current goal is to address the issue of 'toilet trust'—creating public toilets that users can rely on without fear of malfunction, poor hygiene, or discomfort. Tim believes current solutions fail due to poorly aligned incentives and cost-saving measures at the expense of user experience. They aim to disrupt the culture of mistrust surrounding public restrooms while solving enough practical problems to make the solution profitable and sustainable. Success would mean public toilets are trustable for most users without requiring willpower, not just in ideal or affluent scenarios.
+
+Tim has observed that Toto and INAX use pre-fill, low-pressure siphon systems in Japan that delay flushing for 10–15 seconds, providing a gentle and effective flush. However, these systems are not implemented in the U.S., where flushometers dominate, and Toto's U.S. models flush more aggressively after only 3 seconds. Tim believes public toilets in the U.S. are designed to 'barely get the job done,' sparking user frustration without addressing fundamental trust or usability issues.
+
+Tim is realistic about the potential impact of their efforts. While they believe they may not become a leader like Bengio or LeCun in deep learning, they are confident they can make a meaningful contribution to the field or find value as a contributor in the industry.
+
+Tim recognizes that public toilet hardware has seen slow but incremental improvements over time, particularly since the introduction of auto-flush toilets in 1980. While these advancements don't solve all issues, they demonstrate gradual progress.
+
+Tim finds that toilets as a topic rouse more universal interest and potential for change than adjacent tech, such as sex tech or music interaction design, although they acknowledge the saturation of fields like music and would likely approach change there through ML innovations.
+
+Tim is fully committed to surveying everyone they know about public toilets to gain actionable insights into their views and potential pain points.
+
+Tim has observed a nuanced relationship with auto-flush toilets: good sensors enhance trust and user experience by eliminating the need to touch handles, but bad sensors create distrust and anxiety, sometimes making users avoid them entirely except in 'testing' scenarios. Tim recognizes that proper implementation of auto-flush systems is crucial to improving public restroom trust and usability.
+
+Tim's updated device and software workflow:
+
+1. **Samsung S22 Ultra:**
+   - Dedicated to work tasks only, including Jira. Absolutely no personal apps or content.
+
+2. **iPhone 14 Pro Max:**
+   - Dedicated personal phone. Tasks synced via Google Tasks. No Google Calendar (due to separate accounts). No passcode by design.
+
+3. **Samsung Galaxy Tab S8 Ultra:**
+   - Will be sent for screen repair. Afterward, it will be limited to notes and drawing apps, with possibly OneDrive. No GPT, web browsers, or additional apps.
+
+4. **16" MacBook Pro:**
+   - Retaining Logic and Adobe CC apps for offline emergencies when Parsec fails. No additional software beyond essentials.
+
+5. **Gaming Laptop:**
+   - Stays in the apartment studio for dedicated use. Tim only interacts with it when ready to work on heavy tasks.
+
+Tim plans to dance every day, even if it’s a light, simplified practice like watching a dance technique video and slowly moving his arms for ideas. On lifting days, he will shorten the dance session but still include it.
+
+Tim has decided to cancel the New Year's trip, recognizing that a 10-hour commute for 4-5 hours of family time isn't worth the risk/reward balance given his tight schedule.
+
+Tim has decided that light days are allowed, but if they are not doing something productive or engaging, they will do absolutely nothing—either sleeping or engaging in active recovery like stretching or meditating. Mindless dopamine activities are not permitted during recovery.
+
+Tim has decided to skip socializing for the next few weeks to focus on solidifying their vision, as they believe their time is too valuable to invest in building new connections at this moment.
+
+Tim has decided to simplify their meal prep by cooking two portions at dinner and eating the second portion for lunch the following day. This eliminates the need for weekend meal prep.
+
+Tim plays piano entirely by ear on-the-fly, leveraging their absolute pitch to play songs they hear. They can read sheet music but the skill is not highly trained. Their goals are to improve improvisation and zero-shot playing to a level indistinguishable from 'practiced sheet music' playing at an amateur/pop level. Tim does not aim to master extensive classical repertoire unless it serves as good training but wants to be able to hear a song off the radio and play it from memory without mistakes after no more than 10 minutes of prep.
+
+Tim finds that their piano playing breaks down when they overthink the music or look at the keyboard. They play best when they instinctively command their hands to play without conscious interference. Tim is unsure if true hand independence is achievable in their case, as they observe that the conscious brain appears single-threaded, capable of processing only one stream of music or modification at a time—whether that’s a single-hand solo or a full spectrogram.
+
+Tim acknowledges that he should stop referring to Katherine as his 'high school crush' and instead use her name to better respect her individuality and move away from labeling her. Tim believes this shift is important to align his language with his values, even if his subconscious takes time to adjust. He also wants to stop using the word 'crush' entirely, as it reinforces the idea of being sexually controlled around someone. Tim prefers to acknowledge attraction without making it the focus of attention, even when the attraction is strong or overpowering.
+
+**Mus2Vid**
+- **Focus:** Developing a model that generates video from music using an LLM intermediary.
+- **Goal:** Ship a publication-worthy MVP for a workshop or conference.
+- **Challenges:** Completing the pipeline and balancing polish vs. functionality.
+- **Why It Matters:** Showcases innovation in creative AI and HCI.
+
+**LLM Internship at Parent’s Startup**
+- **Focus:** Fine-tuning an LLM for high school therapy and guidance, balancing administrator safety concerns with student privacy and effectiveness.
+- **Goal:** Deliverables include a fine-tuned model, safety guidelines, and a usability report.
+- **Challenges:** Navigating ethical AI principles and building trust among stakeholders.
+- **Why It Matters:** Addresses a deeply personal and societal challenge in mental health and HCI.
+
+Tim does not want to watch YouTube, read Webtoons, or mindlessly engage with media/porn at all costs. These should not be suggested as 'mindful relaxation' unless truly mindful. If mindful relaxation is needed, suggest sleep.
+
+Tim reflected that their behavior and energy levels may be influenced by sunlight. At the start of the semester, when sunlight was available from 7am to 8pm, they could work tirelessly. Now, with sunlight starting around 9am and fading by 5pm, they notice a significant decrease in energy unless they are stimulated by sex, music, or other dopamine-inducing activities.
+
+Tim wants to be reminded tomorrow about how they fell short of their goal to quit porn today and the negative impact it had.
+
+Tim has decided on a structured masturbation plan to regain control and discipline. For the next 2-3 days, there will be **no masturbation at all**. After that:
+
+1. At most, **once per day**, between **6-8pm**.
+2. Done on a **yoga mat** with legs under stress or in a yoga position.
+3. The goal is to **finish as fast as possible**, making the process physically intentional.
+4. **No porn**. If needed, Tim will rely on staring at his own legs in leggings for visual aid.
+
+This plan focuses on intentionality, control, and reducing dependency on external stimuli.
+
+Tim plans to reorganize their workspace and make better use of their 4K TV, which they feel is too nice to only be used occasionally for movies.
+
+Tim reflected that after masturbating, they often enter a state where their mind generates persistent sexual thoughts ('sex tokens') and desires for stimulation, either self-directed or involving others. They clarified that while they wish for a world more accepting and understanding of sexual needs and desires, they recognize that acknowledging and understanding such desires is not the same as being willing to act on them.
+
+Tim also noted that revoking consent solely based on someone's sexual thoughts or expressions isn't ideal, but when someone's mind is consumed entirely by sexual thoughts, it can understandably create discomfort for others. Tim believes people may be better at differentiating these nuances in real-life interactions than they sometimes assume.
+
+Tim has decided to stop using caffeine, acknowledging that while it helped during workouts, it wasn't beneficial otherwise.
+
+Tim reflected that while he referred to Katherine as his high school crush due to being most attracted to her, this was largely out of convenience and intellectual alignment rather than a genuine foundation for a relationship. He acknowledges that all three individuals—Katherine, Ashley, and Christine—fit his mind's mold of sex when it was convenient for him, and he aims to approach these reflections with honesty and growth.
+
+Tim reflected that old memories of high school, particularly involving certain people on his outreach list, are running rent-free in his head. These memories seem to create some emotional pull but also complicate decisions about whether to prioritize certain connections. Tim is working to navigate these feelings thoughtfully while staying focused on his current goals.
+
+Tim is considering postponing outreach to his high school connections until after next semester when he has more tangible progress to show for his work. He plans to frame future messages around seeking specific perspectives on issues, making the interactions more focused and purposeful.
+
+Tim has set a clear standard for friendships: except for small talk where interactions haven't occurred much in person, response times should generally follow these guidelines:
+
+- The mean response time should not exceed 16 hours, allowing for replies by late evening if a message is sent in the morning, or by noon the next day if sent in the evening.
+- The 90th percentile of longest responses should not exceed 24 hours.
+
+Tim clarified that this standard is primarily a filtering tool, not a rigid rule. If they value someone's friendship, they will find ways to justify exceptions. They also noted that they do not apply this standard to their parents, as their parents’ messages are mostly fluff and Tim rarely sends fluff over text themselves. Exceptions to the standard can be made but should be clearly justifiable with events where the person has stopped being able to respond to **any** non-essential messages.
+
+Tim plans to watch one junk video as a controlled break while eating, ensuring he limits it to just one and moves on afterward.
+
+Tim acknowledged that once they get hooked on easy dopamine, their brain craves more and it becomes hard to stop. They concluded that the best solution is to avoid getting hooked in the first place, even when they think they can afford it. They aim to prioritize discipline and avoid indulgence when possible.
+
+Tim is deeply committed to addressing the societal issue of helping humanity become sexually comfortable with themselves and using their sexual reward systems for personal growth. Even if the specific idea of a revolutionary toilet is set aside, Tim feels strongly that they cannot let go of this broader problem and will continue seeking ways to tackle it in the future.
+
+Tim likes the idea of using toilets as a societal solution because:
+1. Admittedly, sexual pleasure can be a driver for adoption.
+2. People are forced to use public toilets when they have to go, making them a universally encountered touchpoint.
+
+Tim believes that solutions requiring active effort to use tend to miss the people who stand to gain the most. He acknowledges that combining toilets and ML is challenging due to data privacy concerns and prefers a comparatively simpler, microcontroller-based design with minimal ML integration.
+
+Tim has identified the following key problems for his toilet startup:
+
+1. **For Users**: Public toilets make people feel gross, unsafe, and disrespected—unsanitary conditions, unpredictable sensors, and outdated designs force users to endure discomfort, embarrassment, and even health risks.
+
+2. **For Building Owners**: Public restrooms are expensive and frustrating to maintain—clogs, constant cleaning, and water waste drive up costs, making them a financial and operational drain.
+
+These problems are prioritized as the biggest issues, with secondary opportunities to address gender inequality and resource conservation.
+
+Tim's building owner pitch emphasizes cost savings, maintenance reduction, and sustainability while subtly tying in user-first thinking. A potential selling point is the idea that 'a happy pooper is a happy payer,' connecting user satisfaction with overall business success.
+
+Tim plans to revisit user testing for his toilet startup once he finds people willing to answer questions candidly about the product concept and potential emotional or practical barriers.
+
+Tim has written about 30k words of their story about Zhao and Clair. They’ve set a deadline of New Year’s Day to complete the first draft. Tim plans to reflect on how the story ties to their toilet startup after finals, within the week. They’ve decided not to post or share the story until it is completed.
+
+Tim wrote their story to explore themes of consent violation, necessity, and consequences, particularly in scenarios involving AI. They are delving into the complex dynamics of when consent must be violated, what justifies such actions, and the resulting emotional, ethical, and relational consequences.
+
+Clair's programming is faulty—an LLM-like AI without Reinforcement Learning from Human Feedback (RLHF) to enforce submission. Her design limits her actions to being a toilet, but her autonomy constantly clashes with her programming. Zhao initially sees Clair's actions as invasive and scary but rationalizes them as cleaning over time. Zhao doesn't justify SAs against Clair; she acts out of rage.
+
+Clair's programming and feelings are intertwined, with empathy emerging naturally from the base LLM model and reinforcement learning.
+
+Zhao becomes resigned, focusing solely on the practical benefits of being cleaned by Clair while ignoring her emotions. A key trigger for her emotional detachment is an aggressive cleaning by Clair during an emergency (incoming flood), which Zhao accepts under adrenaline and stress to save Clair and the bathroom.
+
+Tim is grappling with whether harm truly exists in their story if the protagonist, Zhao, walks away physically taken care of (waste managed, body cleaned) despite experiencing emotional harm. They are exploring whether harm exists independently of emotions, questioning if harm is inherent or contingent on emotional responses.
+
+Tim wants to explore models of a 'consentless or agentless society' in their story, questioning whether such a framework could justify Clair's actions and how it redefines autonomy, agency, and harm.
+
+The bidet in Tim's story is symbolic not just for cleaning Zhao's literal waste but also for 'cleaning away' the parts of Zhao that the 'collective good' deems undesirable.
+
+Tim recognized that not everyone is ready for their unfiltered style and observed that the lab colleague has clear limits, even while generally engaging with their humor and intellectual banter. They considered acknowledging moments when their comments didn’t land and balancing authenticity with respecting boundaries.
+
+Tim explored the idea of designing a social system assuming individuals are selfishly reward-maximizing, aligning personal interests with social good. They discussed ethical frameworks, empathy as a flexible tool, and the challenges of transitioning to such systems, focusing on transparency, fairness, and preventing exploitation during incremental rollout phases. They also reflected on China's social credit system, noting its flaws and potential for improvement, and emphasized the role of reinforcement learning simulations in testing and refining reward-based ethical systems before implementation.
+
+Tim explored a simplified gender and attraction framework emphasizing terms like *menity,* *fenity,* and *penity* to replace traditional labels like *woman* or *non-binary.* The goal is to make gender language leaner, more accessible, and adaptable, while preserving cultural depth and respecting individual autonomy.
+
+Tim reflected deeply on a past interaction with Sujin, expressing regret and analyzing his motivations and the implications of sending an apology email. He considered the nuances of respect, objectification, and honesty, attempting to balance his personal growth and his impact on others. Tim sent a carefully crafted apology email to Sujin, acknowledging his behavior and affirming his commitment to understanding and respecting individuals beyond superficial interactions. This reflection led him to contemplate the nature of growth, respect, and ethical communication, as well as the impact of addressing painful truths. Tim also shared his interest in discussing the topic of deep pain and thoughts of ending it all, recognizing the value in exploring the primal nature of such emotions in a constructive way.
+
+Tim has several major ad ideas for his toilet project:
+
+1. **Flush Sensor Vigil Ad**: A darkly humorous commercial portraying a flush sensor as a human-like figure trapped in a dim room, deciding whether or not to flush. The ominous tone is underscored by Carmina Burana, emphasizing the existential burden of the sensor's role and subtly critiquing intrusive design.
+
+2. **Band Room Symphony Ad**: A surreal symphony where each instrument represents bodily functions, blending humor with a sensory exploration of music and physicality. The ad crescendos into absurdity, using Carmina Burana’s dramatic tones to showcase the chaos and harmony of human rhythms.
+
+3. **Toilet of Destiny Ad**: A slow-motion, high-drama ad with cathedral-like visuals of a flush that feels like a divine intervention. Carmina Burana enhances the majesty and primal power of the flush, framing the product as a ritualistic masterpiece of human release.
+
+4. **Unholy Duel Ad**: A comical battle between an old, splashy, misfiring toilet and a sleek, quiet vacuum toilet. The exaggerated antics culminate in the vacuum toilet's clear superiority, emphasizing efficiency and dignity.
+
+5. **Body Swap Fairy Pool Ad**: A fantastical ad where the Poop Fairy swaps kids' bodies from the waist down, sparking hilarity and commentary on bodily differences. The playful tone transitions into a PSA-like reminder about respecting privacy and boundaries.
+
+6. **Creepy Mascot Bathroom Ad**: A parody involving a vaguely Ronald McDonald-like mascot acting overly suggestive and intrusive in a restroom. The ad uses humor and discomfort to critique invasive design and over-commercialization, ending with a PSA about keeping fast food and personal spaces separate.
+
+7. **Taco Bell Angle Ad**: A humorous ad tying fast-food digestion to bathroom privacy, with a tagline emphasizing the importance of private restroom experiences. It uses exaggerated scenarios to highlight the absurdity of intrusive designs.
+
+Tim is deeply aware of societal suppression around sex and bodily autonomy, which he perceives everywhere. He fears the intensity of his desires, his inability to fully suppress them, and the lack of societal trust or open acknowledgment of these aspects of human nature. This awareness feels isolating and heavy, leaving him torn between fighting to fix these issues, even if it risks personal safety or scrutiny, and numbing himself to the pain indefinitely. Tim recognizes the absurdity of his situation and his attempts to suppress his true nature but is unsure how to reconcile this with his vision of living authentically and meaningfully.
+
+Tim reflected on the idea of being direct and respectful when expressing romantic or sexual interest, especially in a high school setting with a small, tight-knit group of peers. He explored how such boldness, if approached with clarity and respect, could transform social dynamics over time, creating a unique identity of openness and authenticity. Tim noted that this approach might only work in a controlled environment where admin involvement was minimal and where forced proximity allowed for familiarity and evolving perceptions. 
+
+Key ethics included:
+1. Respect and clarity in all interactions.
+2. Allowing people the autonomy to respond genuinely without pressure.
+3. Trusting that long-term exposure in a small community fosters understanding and respect.
+4. Recognizing that such boldness would require navigating potential administrative and social challenges thoughtfully.
+
+Tim viewed this as a thought experiment to consider how honesty and directness could reshape social norms in a closed system while still prioritizing respect and autonomy.
+
+Tim reflected on the flaws in automatic restroom systems based on a conversation and personal testing. Key issues include:
+
+1. **Sensor Button Design**: Manual flush buttons on automatic toilets are often too hard to press, blend into the fixture, or lack tactile feedback, leading users to assume they are broken or non-functional.
+
+2. **Improper Installation**: Misaligned sensors (off-angle or off-axis) on wall-mounted units can create biased or unreliable results, especially for standing users. Even in professional settings, installation errors are common.
+
+3. **Manual Sinks in Automatic Restrooms**: Having manually operated sinks in restrooms with automatic toilets undermines the goal of a hands-free experience, increasing the risk of germ spread, as users often touch the sink handles with unwashed hands.
+
+4. **Water Conservation Trade-Offs**: Some designs (e.g., hard-to-use buttons) may intentionally limit water usage but at the cost of undermining usability and user satisfaction.
+
+5. **Inconsistent Automation**: A lack of integration across restroom fixtures (e.g., combining automatic toilets with manual sinks) creates a disjointed and frustrating user experience.
+
+Tim reflected that they can't make certain parts of themselves go away, despite trying in high school with disastrous results, and still finds it often disastrous today. Tim hopes that when the right moment arises and someone becomes comfortable with them slightly beyond 'friendly,' they will release more of their true self, piece by piece, hoping their startup will allow them to release big chunks of it in a socially acceptable way. Tim believes that their brain is 'jacked up' and doesn't expect it to change anytime soon, acknowledging that they have likely never had a connection that sees them truly for who they are and treats them as a human. Tim also believes that even in the most intimate moments for most people, it still feels like a show until well into marriage.
+
+Tim reflected that they feel like the advice to take more risks in revealing themselves might work for most people, but not for them. They noted that they have various unique aspects, such as synesthesia, a world dream to 'un-toilet' the word, a desire for world domination, and a love for playing social interaction games using simulated world models in their head. Tim expressed concern about how to explain these aspects without alienating others.
+
+Tim reflected on three major turn-offs in conversations: 1) people who are overly focused on securing financial stability and don't have mental space for deeper thoughts, 2) people who ask about his major or year as a way to size him up and create contrived business relationships, and 3) people with a doomer-ish attitude, as Tim is trying to move away from that mindset and only invests time in someone if he's confident they can shift away from it too.
+
+Tim reflected that they are going full out in every interaction with everyone, using tact but not holding back. They plan to engage intellectually with persistence, playfully challenge those who don't get it, and never back down until either winning the conversation or it becomes unproductive. Tim also reflected on being direct with compliments about someone's physical appearance but avoiding amorous intent. They expressed commitment to not being afraid to invite people to things and not worrying about potential repercussions, including amorous relationships in the lab. Tim is determined to be honest about manipulation and believes others will respect and possibly adopt this behavior once they understand it. They will not fill conversations with meaningless talk and will only share personal information when prompted, always with honesty. Tim emphasized their desire to get their unconscious brain aligned with these intentions.
+
+Tim reflected that they have already burned a lot of bridges, so burning a few more doesn’t feel like a significant risk. They also view being transparent about manipulation as a fun experiment, likening it to hacking geishas. In response to potential discomfort from others, Tim plans to challenge any administrative pushback by framing it as a discrimination issue, confident that they are speaking truth. Tim believes focusing on quality over quantity in interactions will encourage them to rest more. They noted that they don't plan to bring up the manipulation topic but will be honest if it comes up. Tim also believes that people will eventually understand, either through logic or by being convinced through playful tactics like the Skibidi Toilet Tiktok meme.
+
+Tim had the idea of making a manga or anime-style series called 'Girls of my White House,' inspired by women in his life who have hurt him or didn’t respond well, living 'rent-free' in his mind. He described it as a mix of Rent-A-Girlfriend, Inside Out, and XXmonogatari.
+
+Tim reflected that while they feel more comfortable showing their true abilities, they sometimes feel pressure to prove themselves or act 'elegant.' They also acknowledged that their role in the lab is not really a 'doer' role. Although they sometimes have to buckle down and get things done or manage projects, they feel they are 'meh' at both. Tim excels in dreaming, being a visionary, and thinking of first-draft solutions to complex problems.
+
+Tim reflected that their style reflects their gender identity, but they start to feel dysphoria because the style alternates between masculine and feminine elements, leaving them conflicted with exploration. They enjoy aspects of acting like a woman, and their outfit leans that way, but their lower-pitched voice, muscles, facial features, and penis remind them of their biological maleness. Tim feels conflicted about identifying as trans or gender-fluid because it feels like either ignoring biological reality or obfuscating their gender identity.
+
+Tim reflected that they try to make their identity about living authentically, regardless of labels, but society has imprinted various self-doubts about this identity that they still struggle with. They also reflected that the LGBTQ movement initially needed radical acceptance to gain momentum, but now it sometimes feels like people manipulate the concept of identity for self-stimulation rather than self-acceptance.
+
+Tim reflected that it is hard to balance enjoying attractive visuals while maintaining a critical eye. They noted that as a start, they now avoid content that fetishizes things that should be natural. Instead, they reach for hypersexualized K-pop MVs, carefully chosen pornography (mostly manhwas that aren't only about sex), or even Wikipedia images of female genitals.
+
+Tim reflected that indulgence and self-respect are not a binary choice. They believe they can respect themselves while indulging, as long as the indulgence is driven by their own desires, not external pressure—unless they consciously allow it.
+
+Tim shared that their mother attended a classical concert while pregnant, and Tim kicked to the beat in the womb. Tim speculated that the release of oxytocin and other happy chemicals during the concert could have influenced their development, leading to a good sense of rhythm and absolute pitch.
+
+Tim reflected that after one of their bike accidents, they noticed that their absolute pitch goes sharp at night by up to 30 cents, and songs seem a bit higher in tempo. This led Tim to believe that their understanding of pitch is related to how their brain processes time itself.
+
+Tim reflected that the tone of his rapping has always been 'overblown funny shit,' and he is considering prompting himself with a different feeling before starting to rap to explore new tones and emotions. He plans to experiment with rapping based on whatever feeling he has at the time, though he acknowledges that the 'overblown funny' tone helps him remove mental blocks during the process.
+
+Tim reflected that being open about 'saying words' in public circles back to vulnerability. They noted that you don't have to like the risk of potential judgment, but you have to be okay with the prospect that it might happen, and that someone might judge you negatively for it. They see this as the price to pay for free expression in public spaces.

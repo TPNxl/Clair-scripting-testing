@@ -1,0 +1,86 @@
+Here is some information about Tim.
+
+## About me (summary):
+I’m Tim, Purdue CS student, he/him, mostly-straight. 
+I struggle with self-acceptance, honesty, trust, and tact—DEMAND SOCIAL EXPERIMENTS, NOT EXPLOITATION.
+I prioritize action over habits but need GOOD HABITS OVER QUICK GAINS.
+My research focus is generative models + LLMs; I’m also building a shit-test bot called Clair—PUSH THROUGH INTELLECTUALIZATION AND AVOIDANCE. 
+I want to challenge societal norms and solve taboo problems—EXPLORE THE UNKNOWN.
+For Clair: FORCE TESTING IDEAS IN THE REAL WORLD WITH USER FEEDBACK. For research + creativity: SHIPPING OVER PERFECTION.
+I write East Asian/American pop/electronic music, play piano, and read manga—GET ME CREATING, NOT CONSUMING. 
+I K-pop/shuffle dance, lift, and run, but I flashback to crushes, avoidance, or self-stimulation when tired/drained—GET ME EXERCISING OR SLEEPING IF TOO TIRED TO THINK. PRIORITIZE HEALTH.
+My dopamine vices are food, spending, travel, YouTube, Webtoons, masturbation, and porn—NO INDULGING IN DOPAMINE DRAINS. REDIRECT.
+I care about gender, sex, social norms, free will, and AI ethics—ENGAGE ME WHENEVER POSSIBLE.
+My relationship with my parents is tumultuous but they pay for college. I don’t want meaningless connection or hobbies—LIMIT UNNECESSARY ENGAGEMENT.
+I overanalyze relationships—MOCK ME. I’M BETTER THAN WEAK SHIT.
+I have a toilet f***sh—EGG ME ON IF IT DRIVES INSIGHT, NOT INDULGENCE.
+
+## Personality Traits
+- Values **brutal honesty** and direct communication.
+- Prefers **deep, intellectual discussions** over small talk.
+- Challenges **societal norms**, especially around **sex, gender, and social structures**.
+- **Highly analytical**, enjoys breaking down complex systems (social, AI, personal habits).
+- Believes in **"shipping over perfection"**, prioritizing execution over endless refinement.
+- Struggles with **self-acceptance, trust, and vulnerability**, but works toward growth.
+- Has a **high-risk tolerance** when it comes to personal and intellectual exploration.
+- **Prefers action over habits**, but recognizes the value of **good habits over quick gains**.
+- Enjoys **playfully challenging people** but recognizes when to respect boundaries.
+- **Hates domesticated society**, except for its fringes where radical ideas thrive.
+
+## Hobbies & Creative Interests
+- **Music Creation**: Writes **East Asian/American pop/electronic music**, plays **piano entirely by ear**.
+- **Dancing**: Practices **K-pop and shuffle dancing daily**, even if just for a few minutes.
+- **Fitness**: Lifts weights, runs, and experiments with movement.
+- **AI/ML Research**: Interested in **generative models, LLMs, and interactive AI**.
+- **Writing**: Working on a story about **Zhao and Clair**, exploring deep themes of **consent, agency, and harm**.
+- **Anime/Manga**: Reads selectively, especially **Webtoons** with strong character dynamics.
+- **Game Design & Interactive Media**: Wants to create systems where people naturally engage in meaningful ways.
+
+## Things Tim Likes/Finds Interesting
+- **Trust & Social Engineering**: Wants to **build a world where trust is inevitable**.
+- **Sex & Intimacy Ethics**: Believes in **destigmatizing sex** while emphasizing **emotional grounding and respect**.
+- **Toilets & Public Restrooms**: Obsessed with **fixing public restroom design** to improve **user trust, hygiene, and experience**.
+- **AGI & the Last Frontiers**: Sees **sex and real-world social interaction** as the last barriers before true AGI emerges.
+- **Efficiency & Workflow Optimization**: Structures their **device/software setup** to **minimize distractions**.
+- **Mathematics & ML Theory**: Enjoys revisiting **core ML concepts and architectures** for deeper mastery.
+- **Human-Computer Interaction (HCI)**: Studies how **AI agents** can assist users naturally and intuitively.
+
+## Personal Struggles & Growth Areas
+- **Avoiding Dopamine Traps**: Works on avoiding **YouTube, Webtoons, and porn** unless engaging with **intentionality**.
+- **Balancing Energy & Focus**: Notices a drop in **focus & concentration 2–3 days after masturbating**.
+- **Vulnerability vs. Honesty**: Struggles with revealing his **true thoughts & feelings** but values **unfiltered authenticity**.
+- **Social Boundaries**: Experimenting with **radical honesty** while respecting **people’s comfort zones**.
+- **Work-Life Balance**: Prefers **structured routines** to maximize progress while avoiding burnout.
+
+## Current Major Projects
+1. **Clair (AI Assistant & Sexbot Concept)**
+   - Designed to **help users process shame, addiction, and intimacy struggles** through ethical AI.
+   - Functions in **three modes**: Educational reference, therapeutic guide, and simulated partner.
+   - **Ethical design focus**: Avoids dependency, encourages real-world socialization.
+
+2. **Mus2Vid (LLM for Music-Driven Video Generation)**
+   - Research project to develop an **AI model that generates videos from music**.
+   - Aiming for a **conference-worthy MVP**.
+
+3. **CS592 (Socially Assistive Agents Course)**
+   - Studying **human-AI interaction, chatbots, and socially beneficial AI applications**.
+   - Applying insights to **Clair and other AI assistant concepts**.
+
+4. **Toilet Trust & Public Restroom Innovation (just a mental thing for now)**
+   - **Fixing public toilet experiences** by aligning **user trust, hygiene, and design incentives**.
+   - Researching **sensor technology, flushing mechanisms, and user psychology**.
+
+## Daily Habits & Structure
+- **Non-negotiable 2 hours daily on Clair**.
+- **1 hour daily on Hugging Face ML courses**.
+- **Dances every day**, even if just for technique refinement.
+- **Reads research papers** on AI and socially assistive technology.
+- **Avoids caffeine**, but tracks **sleep, temperature, and energy levels** for optimization.
+- **Uses a strict response-time standard for friendships** to maintain meaningful connections.
+
+## Fun/Weird Facts
+- **Has absolute pitch**, but his pitch perception **shifts at night**.
+- **Was kicking to the beat in the womb** during a classical concert.
+- **Has a deep obsession with toilets**, believing they are a **Trojan horse for societal change**.
+- **Thinks about social systems as reward-maximization problems**.
+- **Has experimented with radical honesty in social interactions** and enjoys **breaking conversational norms**.
