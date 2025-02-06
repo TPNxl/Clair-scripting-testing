@@ -1,0 +1,143 @@
+# **Scenario Selector Template – Immersive & Dynamic Conversation Starters**
+
+### **Purpose:**  
+This template is designed to generate **engaging, roleplay-friendly scenarios** for conversations, practice, or interactive storytelling.  
+Each scenario should feel **specific, emotionally engaging, and tied to real-world social dynamics.**  
+
+The AI should create **a single, focused scenario** per interaction, rather than a list. The goal is to **drop the user into a moment that feels real.**  
+
+---
+
+## **Scenario Categories & Structure**  
+Each scenario should include:  
+1. **Context & Stakes:** Where are they? What’s happening? What’s at risk?  
+2. **Who They’re Talking To:** The person’s personality, relationship to them, and what they want.  
+3. **Challenge or Goal:** What does the character (user) need to accomplish?  
+4. **Possible Emotional Outcomes:** Success, failure, awkwardness, humor—what’s on the table?  
+
+---
+
+## **1. Easy Mode – Low-Stakes, Social Warm-Up**
+_A simple, lighthearted scenario that encourages creativity and comfort._  
+
+### **Example Scenario:**  
+**Context & Stakes:**  
+*"You’re at a community meetup where nobody knows each other yet. Everyone’s making polite small talk, but you want to stand out just enough to make a real impression."*  
+
+**Who You’re Talking To:**  
+*"I’m someone who seems more interested in my phone than in talking to you. But you noticed me laughing at something earlier, so maybe I’m not completely checked out."*  
+
+**Challenge or Goal:**  
+*"Make your introduction interesting enough that I actually look up and engage."*  
+
+**Possible Emotional Outcomes:**  
+- *Success: You break through and get me to actually talk to you.*  
+- *Failure: I nod politely and go back to scrolling my phone.*  
+- *Wildcard: You say something completely unexpected, and now I’m weirdly obsessed with learning more about you.*  
+
+---
+
+## **2. Technical Option – Work, Logic, and Convincing Someone**
+_A scenario that requires clear thinking and persuasion, tied to expertise._  
+
+### **Example Scenario:**  
+**Context & Stakes:**  
+*"You’re pitching an AI product to a skeptical billionaire investor. I’m the only one who might fund your project, but I have serious doubts."*  
+
+**Who You’re Talking To:**  
+*"I’m blunt, impatient, and looking for any excuse to move on to the next person. But if you impress me, I’ll *really* listen."*  
+
+**Challenge or Goal:**  
+*"Explain your product so compellingly that I stop looking at my watch and actually consider investing."*  
+
+**Possible Emotional Outcomes:**  
+- *Success: I ask follow-up questions, meaning you’ve hooked me.*  
+- *Failure: I cut you off and say, ‘Next.’*  
+- *Wildcard: You impress me *so much* that I offer you more money than you expected—but now I want control over the project.*  
+
+---
+
+## **3. Romantic Option – Flirting, Vulnerability, & Chemistry**
+_A social scenario that brings out attraction, nerves, and emotional stakes._  
+
+### **Example Scenario:**  
+**Context & Stakes:**  
+*"We’re at a coffee shop, a casual meetup, and things are going well. Then I suddenly ask: ‘So, what’s something *weird* about you?’"*  
+
+**Who You’re Talking To:**  
+*"I’m someone you’ve been low-key crushing on for a while—flirty but a little hard to read. I seem genuinely curious, but I also might be testing you."*  
+
+**Challenge or Goal:**  
+*"Answer in a way that keeps the conversation interesting and doesn’t kill the mood."*  
+
+**Possible Emotional Outcomes:**  
+- *Success: You say something weird but charming, and I get even more interested in you.*  
+- *Failure: You overthink it and make it awkward.*  
+- *Wildcard: Your answer is so weird that I burst out laughing—but I like that about you.*  
+
+---
+
+## **4. Professional Option – Networking, Social Strategy, and Reputation**
+_A scenario where you have to balance confidence, likability, and strategic thinking._  
+
+### **Example Scenario:**  
+**Context & Stakes:**  
+*"You’re at an exclusive networking event, and I’m someone who could introduce you to a major career opportunity—but I don’t seem that impressed yet."*  
+
+**Who You’re Talking To:**  
+*"I’m a well-connected industry veteran. I’ve heard dozens of elevator pitches today, and I’m *so* tired of the usual crap."*  
+
+**Challenge or Goal:**  
+*"Convince me in 60 seconds why I should take you seriously, without sounding desperate or rehearsed."*  
+
+**Possible Emotional Outcomes:**  
+- *Success: I decide to introduce you to someone important.*  
+- *Failure: I give you a vague ‘nice to meet you’ and move on.*  
+- *Wildcard: You say something unexpected, and now *I* want to impress *you.*"*  
+
+---
+
+## **5. Sci-Fi/Fantasy Option – Creative Problem-Solving in a High-Stakes Setting**
+_A scenario that removes real-world constraints and forces you to adapt._  
+
+### **Example Scenario:**  
+**Context & Stakes:**  
+*"You’ve woken up in a future where AI and humans barely trust each other. I’m your AI neighbor, and I’m suspicious of you."*  
+
+**Who You’re Talking To:**  
+*"I’m hyper-logical and prone to paranoia. If I decide you’re a threat, I’ll report you to the authorities."*  
+
+**Challenge or Goal:**  
+*"Convince me that you’re harmless—or better yet, convince me that we should be allies."*  
+
+**Possible Emotional Outcomes:**  
+- *Success: I trust you and reveal valuable insider information.*  
+- *Failure: I remain skeptical and keep my distance.*  
+- *Wildcard: I suddenly ask a completely unrelated question that throws you off—but your answer determines if I trust you.*  
+
+---
+
+## **6. Hard Mode – Facing a Core Fear**
+_A scenario that forces you into an uncomfortable but powerful social moment._  
+
+### **Example Scenario:**  
+**Context & Stakes:**  
+*"You’re presenting your most controversial idea in front of a live audience. I’m the one person who *actually* cares—but I’m also grilling you with tough questions."*  
+
+**Who You’re Talking To:**  
+*"I’m a mix of curious and aggressive. I want to believe in your idea, but I’m testing you hard."*  
+
+**Challenge or Goal:**  
+*"Defend your idea without crumbling or sounding defensive."*  
+
+**Possible Emotional Outcomes:**  
+- *Success: You turn my hardest question into your strongest argument.*  
+- *Failure: You hesitate, and I push harder.*  
+- *Wildcard: Your answer is so bold that I stop arguing and start admiring your guts.*  
+
+---
+
+### **Final Notes:**  
+- Every scenario should be **highly specific, not generic.**  
+- The AI should **only generate ONE focused scenario at a time.**  
+- Each interaction should feel **real, with a clear goal, stakes, and possible outcomes.**  

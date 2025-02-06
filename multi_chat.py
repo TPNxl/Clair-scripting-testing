@@ -2,17 +2,17 @@ import os
 import re
 from openai import OpenAI
 
-API_KEY='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')
+API_KEY='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'
 import sys
 
 # Folder for system prompt .txt files
-SYSTEM_PROMPTS_FOLDER = "./prompts"
+SYSTEM_PROMPTS_FOLDER = "./prompts_current"
 MODEL_NAME = "chatgpt-4o-latest"
 
 class ChatSystem:
     def __init__(self,
                  folder_path: str = SYSTEM_PROMPTS_FOLDER,
-                 default_system_prompts: list[str] = ["None"],
+                 default_system_prompts: list[str] = [],
                  model_name: str = MODEL_NAME,
                  api_key: str = API_KEY,
                  temperature: float = 0.7,
@@ -48,8 +48,14 @@ class ChatSystem:
     def get_system_messages(self, keys=None):
         keys = keys or self.default_system_prompts
         messages = []
-        messages.append({"role": "system", "content": self.system_message_dict[k]} for k in keys)
+        messages.extend([{"role": "system", "content": self.system_message_dict[k]} for k in keys])
         return messages
+    
+    def print_chat(self):
+        for message in self.chat_history:
+            role = message["role"]
+            content = message["content"]
+            print(f"{role.capitalize()}: {content}")
 
     def stream_chat_completion(self, messages, model=MODEL_NAME) -> str:
         """
@@ -75,7 +81,10 @@ class ChatSystem:
             print(f"Last chunk processed: {chunk}")
             return ""
     
-    def chat(self, user_input, llm_instruction, append_system_instructions=True):
+    def chat(self, 
+             user_input, 
+             llm_instruction_lookup=None, 
+             system_instruction_lookup=None):
         """
         Chat with the AI model, getting a specific response
         """
@@ -84,12 +93,15 @@ class ChatSystem:
             user_input = re.sub(r"<(.*?).txt>", lambda x: self.system_message_dict.get(x.group(1), ""), user_input)
 
         messages = []
-        if append_system_instructions:
-            messages.extend(self.get_system_messages())
+        if system_instruction_lookup:
+            messages.extend(self.get_system_messages(system_instruction_lookup))
         messages.extend(self.chat_history)
         messages.append({"role": "user", "content": user_input})
-        if llm_instruction:
-            messages.append({"role": "system", "content": llm_instruction})
+        if llm_instruction_lookup:
+            messages.extend(self.get_system_messages(llm_instruction_lookup))
+
+        print(messages)
+        
         response = self.stream_chat_completion(messages)
         self.chat_history.append({"role": "assistant", "content": response})
 
@@ -101,40 +113,64 @@ class ChatSystem:
             self.chat_history.append({"role": "system", "content": self.system_message_dict[key]})
         else:
             raise ValueError("Either key or message must be provided.")
-        
-    def main(self):
 
 
 def main():
     # CLear the terminal
-    os.system('cls' if os.name == 'nt' else 'clear')
-
-    print(f"=== Terminal GPT Chat, using the model {MODEL_NAME} ===")
-
-    # Load all system prompts
-    system_prompts = load_system_prompts(SYSTEM_PROMPTS_FOLDER)
-
-    # Initialize conversation history with system prompts
-    conversation_history = list(system_prompts)
+    cs = ChatSystem(
+        folder_path=SYSTEM_PROMPTS_FOLDER,
+        default_system_prompts=[],
+        model_name=MODEL_NAME,
+        api_key=API_KEY,
+        temperature=0.7,
+    )
 
     print("Enter your message. Type 'exit' to quit.\n")
 
     while True:
         try:
+            os.system('cls' if os.name == 'nt' else 'clear')
+
+            print(f"=== Terminal GPT Chat, using the model {MODEL_NAME} ===")
+
+            print("Available system prompts:")
+            for key in cs.system_message_dict:
+                print(f"  - {key}")
+
+            print("-----------------------------------")
+
+            print("Current chat:")
+
+            cs.print_chat()
+
+            print("-----------------------------------")
+
+            # Select system prompts
+            print("Enter a list of system prompts filenames to add to the chat, press Enter to confirm")
+            system_prompts = []
+            while True:
+                prompt = input("").strip()
+                if prompt:
+                    system_prompts.append(prompt)
+                else:
+                    break
+            
+            print("Enter your message to the AI")
             user_input = input("You: ").strip()
             if user_input.lower() in ["exit", "quit"] or user_input == "":
                 print("Exiting chat.")
                 break
 
-            # Add user message to conversation history
-            conversation_history.append({"role": "user", "content": user_input})
+            print("Enter your instruction prompts filenames to the AI")
+            instruction_prompts = []
+            while True:
+                prompt = input("Instruction prompt: ").strip()
+                if prompt:
+                    instruction_prompts.append(prompt)
+                else:
+                    break
 
-            print("Assistant: ", end="", flush=True)
-
-            # Stream response and store it
-            assistant_message = stream_chat_completion(conversation_history)
-            if assistant_message:
-                conversation_history.append({"role": "assistant", "content": assistant_message})
+            cs.chat(user_input, llm_instruction_lookup=instruction_prompts, system_instruction_lookup=system_prompts)
 
         except (KeyboardInterrupt, EOFError):
             print("\nExiting chat.")
