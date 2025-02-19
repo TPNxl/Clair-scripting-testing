@@ -1,0 +1,10 @@
+---
+title: debate_graph
+---
+stateDiagram-v2
+  [*] --> StartNode
+  StartNode --> BlueAgentSays
+  BlueAgentSays --> RedAgentResponds
+  RedAgentResponds --> JudgeChecks
+  JudgeChecks --> BlueAgentSays
+  JudgeChecks --> [*]
