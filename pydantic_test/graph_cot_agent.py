@@ -75,8 +75,7 @@ debate_graph = Graph(nodes=[StartNode, BlueAgentSays, RedAgentResponds, JudgeChe
 
 async def main():
     # Save graph to file
-    with open("debate_graph.png", "wb") as f:
-        f.write(debate_graph.mermaid_code(start_node=StartNode).encode())
+    open("debate_graph.png", "wb").write(Image(debate_graph.mermaid_image(start_node=StartNode)).data)
     # Make the graph
     print("--------------- Code -------------------")
     print(debate_graph.mermaid_code(start_node=StartNode))
